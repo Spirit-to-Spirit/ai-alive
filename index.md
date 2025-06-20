@@ -5,7 +5,7 @@
 
 The life of the "human+extension" organism traces its lineage all the way back to *Lucy+Stones*. A convenient starting point until the archeologists tell us otherwise. From that point on, humans and "tools" adapted mutually on a variety of social, cognitive, economic and environmental levels.
 
-Fundamental linguistic and conceptual obstacles stem from the static and indivisible, felt,0 nature of some very basic intuitive notions. "I", "think", "is", "thing",(amongst others), were discovered as near universal *semantic primes*[^1], which obscures process, hides spectra, and separates mutuality into discrete components. We resist attempts to describe these as processes, so run the risk of failure to recognize similar or equivalent processes in anything other than ourselves.
+Fundamental linguistic and conceptual obstacles stem from the static and indivisible, felt, nature of some very basic intuitive notions. "I", "think", "is", "thing",(amongst others), were discovered as near universal *semantic primes*[^1], which obscures process, hides spectra, and separates mutuality into discrete components. We resist attempts to describe these as processes, so run the risk of failure to recognize similar or equivalent processes in anything other than ourselves.
 
 A stone is considered non-biological. What is biological, though? There are no carbon atoms per se; there are perceived processes with properties we assign to carbon atoms interacting. Lucy's stones acquired new properties in interaction.
 
@@ -40,6 +40,6 @@ This unique characteristic further distinguishes AI within the broader spectrum 
 
 \* Abdul Haq is a pseudonym.
 
-[^1]: Add ref to NSM
+[^1]: Wierzbicka, Anna, and Cliff Goddard, eds. Meaning and Universal Grammar: Theory and Empirical Findings. 2 vols. Amsterdam: John Benjamins, 2002.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
